@@ -1,0 +1,15 @@
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/bin/Debug/net10.0/week10.2
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/bin/Debug/net10.0/week10.2.deps.json
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/bin/Debug/net10.0/week10.2.runtimeconfig.json
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/bin/Debug/net10.0/week10.2.dll
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/bin/Debug/net10.0/week10.2.pdb
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.AssemblyInfoInputs.cache
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.AssemblyInfo.cs
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.csproj.CoreCompileInputs.cache
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.sourcelink.json
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.dll
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/refint/week10.2.dll
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.pdb
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/week10.2.genruntimeconfig.cache
+/Users/mariiamatsko/RiderProjects/week10.2/week10.2/obj/Debug/net10.0/ref/week10.2.dll
